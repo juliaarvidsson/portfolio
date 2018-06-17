@@ -1,0 +1,237 @@
+
+.right {background-color: LightSlateGrey;}
+
+
+.left {background-color: #blue;}
+
+.right h1 {
+    font-family: 'Open Sans', sans-serif; color: white
+  font-weight: 700
+}
+
+.right h5 {
+    font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+
+    .workleft h5 {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      margin-top: 0px;
+      margin-right: 20px
+    }
+
+    .workleft h4 {
+  font-family: 'Open Sans', sans-serif;
+font-weight: 700;
+margin: 0px;
+}
+
+          .workright h3 {
+          font-family: 'Open Sans', sans-serif;
+          font-weight: 700;
+          line-height: 0px;
+}
+
+          .workright h5 {
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 300;
+            margin-top: 0px
+          }
+
+          .workright h4 {
+        font-family: 'Open Sans', sans-serif;
+      font-weight: 700;
+    margin: 0px;}
+
+                .workright h3 {
+                font-family: 'Open Sans', sans-serif;
+                font-weight: 700;}
+
+
+                .workheadline h3 {
+                font-family: 'Open Sans', sans-serif;
+                font-weight: 700;
+      }
+
+.menu h3 {
+font-family: 'Open Sans', sans-serif;
+font-weight: 700;}
+
+.about h3 {
+font-family: 'Open Sans', sans-serif;
+font-weight: 700;
+border-style: solid;
+text-transform: uppercase;
+padding-top: 3px;
+padding-right: 3px;
+padding-bottom: 3px;
+padding-left: 3px;
+width: 12%;}
+
+  .about h5 {
+    font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  }
+
+.about {width: 100%;}
+
+.education h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin-bottom: 0px
+    }
+
+    .education h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 0px
+    }
+
+      .education h5 {
+      font-family: 'Open Sans', sans-serif;
+      font-weight: 300;
+      margin-top: 0px;
+      }
+
+.extra h3 {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 700;
+        }
+
+        .extraleft h5 {
+            font-family: 'Open Sans', sans-serif;
+          font-weight: 300;}
+
+          .extraleft h4 {
+              font-family: 'Open Sans', sans-serif;
+            font-weight: 700;}
+        .extraright h5 {
+            font-family: 'Open Sans', sans-serif;
+          font-weight: 300;}
+
+          .extraright h4 {
+              font-family: 'Open Sans', sans-serif;
+            font-weight: 700;}
+
+.linkedin img {
+  width: 5%;}
+
+.left {
+  width: 30%;
+  height: 239px;
+  background-image: url("JuliaArvidsson.jpeg");
+  background-size: cover;
+}
+
+.left img {
+    width: 100%;}
+
+    .right {
+    padding-top: 30px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    width: 70%;
+    height: 199px
+}
+
+.workheadline h3 {border-style: solid;
+text-transform: uppercase;
+padding-top: 3px;
+padding-right: 3px;
+padding-bottom: 3px;
+padding-left: 3px;
+width: 20%;
+margin-top: 5px}
+
+.education h3 {border-style: solid;
+text-transform: uppercase;
+padding-top: 3px;
+padding-right: 3px;
+padding-bottom: 3px;
+padding-left: 8px;
+width: 15%;}
+
+.extraheadline h3 {border-style: solid;
+text-transform: uppercase;
+padding-top: 3px;
+padding-right: 3px;
+padding-bottom: 3px;
+padding-left: 8px;
+width: 35%;
+}
+
+.extraheadline h3 {
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 700;
+        }
+
+.header {
+  display: flex;
+   justify-content: flex-start;
+}
+
+.work {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.work {background-color: LightGrey;}
+.workheadline {background-color: LightGrey;}
+
+
+.Lundpic img {
+  width: 10%;}
+
+  .polyupic img {
+    width: 20%;}
+
+
+body {
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+}
+
+.workbackground {background-color: LightGrey;}
+
+.extrabackground {background-color: LightGrey;}
+
+
+.extra {
+  display: flex;
+  justify-content: space-around;
+}
+
+.extraleft h5 {
+font-family: 'Open Sans', sans-serif;
+font-weight: 300;
+margin-top: 0px;
+margin-right: 20px;
+}
+
+.extraleft h4 {
+font-family: 'Open Sans', sans-serif;
+font-weight: 700;
+margin-top: 0px;
+margin-bottom: 0px
+}
+
+.extraright h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  margin-top: 0px;
+
+}
+
+.extraright h4 {
+font-family: 'Open Sans', sans-serif;
+font-weight: 700;
+margin-top: 0px;
+margin-bottom: 0px
+}
